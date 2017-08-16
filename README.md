@@ -1,2 +1,2 @@
-# Javascript-small-projects
-Mini javascript projects to try new and innovative coding skills
+# JavaScript_Apps
+Mini Apps developed VanillaJS
